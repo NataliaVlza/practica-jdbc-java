@@ -20,6 +20,7 @@
 <br>
 
 <p><b><font size="4">Descripción del Proyecto</font></b></p>
+
 <p>Aplicación de consola en Java que se conecta a una base de datos relacional <b>PostgreSQL</b> (<code>universitydb</code>) a través del controlador <b>JDBC</b>. El programa permite consultar en tiempo real el historial académico (kardex) de cualquier estudiante ingresando su apellido o nombre desde la terminal.</p>
 
 <p><b>Funcionalidades y Requisitos Implementados:</b></p>
@@ -35,14 +36,14 @@
 <p><b>1. Ejecución de la Consulta e Historial Académico</b><br>
 Muestra la interacción en consola solicitando el nombre del alumno, la confirmación de la conexión exitosa con PostgreSQL y el kardex formateado en pantalla.</p>
 
-![Ejecución Kardex JDBC](screenshots/kardex_terminal.png)
+![Ejecución Kardex JDBC](screenshots/terminal_jdbc.png)
 
 <br>
 
 <p><b>2. Esquema de la Base de Datos en PostgreSQL</b><br>
 Estructura de las 11 tablas relacionales de la base de datos <code>universitydb</code> (incluyendo <code>student</code>, <code>course</code> y <code>takes</code>) consultadas mediante JDBC.</p>
 
-![Tablas PostgreSQL](screenshots/tablas_postgres.png)
+![Tablas PostgreSQL](screenshots/tablas_bd.png)
 
 <br>
 
