@@ -14,7 +14,7 @@
 * **Estudiante:** Natalia Valenzuela ([@NataliaVlza](https://github.com/NataliaVlza))
 * **Institución:** Universidad de Sonora (UNISON) - Facultad Interdisciplinaria de Ingenierías
 * **Modalidad:** Proyecto guiado y desarrollado en sesiones prácticas de laboratorio.
-* **Contacto:** natalia28valenzuela@gmail.com
+* **Contacto:** natalia.sanchezvlza@gmail.com
 * **Ubicación:** Hermosillo, Sonora, México
 
 <br>
