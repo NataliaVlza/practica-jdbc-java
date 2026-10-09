@@ -36,14 +36,14 @@
 <p><b>1. Ejecución de la Consulta e Historial Académico</b><br>
 Muestra la interacción en consola solicitando el nombre del alumno, la confirmación de la conexión exitosa con PostgreSQL y el kardex formateado en pantalla.</p>
 
-![Ejecución Kardex JDBC](screenshots/terminal_jdbc.png)
+![Ejecución Kardex JDBC](screenshots/terminal.png)
 
 <br>
 
 <p><b>2. Esquema de la Base de Datos en PostgreSQL</b><br>
 Estructura de las 11 tablas relacionales de la base de datos <code>universitydb</code> (incluyendo <code>student</code>, <code>course</code> y <code>takes</code>) consultadas mediante JDBC.</p>
 
-![Tablas PostgreSQL](screenshots/tablas_bd.png)
+![Tablas PostgreSQL](screenshots/tablas.png)
 
 <br>
 
